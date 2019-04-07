@@ -1,2 +1,4 @@
 # hello-world
-New repository
+Hi All!
+
+Sonali here, I like SQL,AngularJs and Python! 
